@@ -1,0 +1,26 @@
+{
+  "name": "gutenberg-js-demo",
+  "version": "0.1.0",
+  "authors": [
+    "Daniil Pronin <mail@grawl.ru> (https://github.com/Grawl)",
+    "Joe <joe@uixd.co.uk> (https://github.com/joejordanbrown)"
+  ],
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@frontkom/gutenberg-js": "^3.0.1",
+    "querystring": "^0.2.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-render-html": "^0.6.0",
+    "react-router-dom": "^4.3.1",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "react-scripts": "^2.1.3"
+  }
+}
